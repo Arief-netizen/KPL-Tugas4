@@ -46,5 +46,5 @@ Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 
 ## Session Expired Jika User Tidak Aktif Selama 5 Menit
 
-![Imam Arief Al Baihaqy](./screenshots/11_SessionExpired.png 'Imam Arief Al Baihaqy')
+![Imam Arief Al Baihaqy](./screenshots/11_SessionExpire.jpg 'Imam Arief Al Baihaqy')
 ---
