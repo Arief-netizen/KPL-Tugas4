@@ -10,7 +10,6 @@ Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 ## Aktivasi Akun Melalui Gmail
 
 ![Imam Arief Al Baihaqy](./screenshots/2_VerifikasiSignUp.png 'Imam Arief Al Baihaqy')
-2_VerifikasiSignUp.png
 ---
 ## Login Dengan Username Yang Telah Didaftarkan
 
